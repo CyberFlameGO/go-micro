@@ -33,7 +33,7 @@ require (
 	github.com/pborman/uuid v1.2.1
 	github.com/urfave/cli/v2 v2.3.0
 	go-micro.dev/v4 v4.3.0
-	golang.org/x/net v0.0.0-20211020060615-d418f374d309
+	golang.org/x/net v0.17.0
 	google.golang.org/genproto v0.0.0-20211021150943-2b146023228c
 	google.golang.org/grpc v1.42.0
 	google.golang.org/protobuf v1.27.1
@@ -76,10 +76,10 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/ugorji/go/codec v1.1.7 // indirect
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
+	golang.org/x/crypto v0.14.0 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
